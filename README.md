@@ -1,10 +1,9 @@
 
-# COMMERCIVM – Gen Z Sacred Trade Website
+# COMMERCIVM – Sacred Trade Website
 
 Official repository for the sacred digital market prototype.
 
-🔗 Live site: [commercium.sacredmail.tech](https://commercium.sacredmail.tech)  
-📧 contact@commercium.sacredmail.tech  
+📧 sellamimohamed71@gmail.com
 🌀 Powered by sacredmail.tech | Hosted on Netlify
 
 ---
