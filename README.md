@@ -1,7 +1,8 @@
-# 🏛️ EMPORIUM – E-Commerce Sacré et Modulaire
 <p align="center">
   <img src="emporium-logo.png" alt="Emporium Logo" width="180"/>
 </p>
+# 🏛️ EMPORIUM – E-Commerce Sacré et Modulaire
+
 > Une alternative libre, éthique et vibrante à Shopify – par et pour les créateurs conscients.
 
 ---
