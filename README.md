@@ -135,8 +135,8 @@ Utilisation libre dans le respect des principes suivants :
 
 Tu peux contribuer, proposer des modules, ou activer EMPORIUM dans ton sanctuaire commercial :
 
-📬 contact : [emp@commercium.eu.org](mailto:sellamimohamed71@gmail.com)  
-🌍 Site vitrine : [https://commercium.eu.org]([https://commercium.eu.org](https://dynamic-secure-smart-3.deploypad.app/))  
+📬 contact : [sellamimohamed71@gmail.com](mailto:sellamimohamed71@gmail.com)  
+🌍 Site vitrine : [ https://dynamic-secure-smart-3.deploypad.app/](https://dynamic-secure-smart-3.deploypad.app/) 
 🧭 Projet GitHub : [DOMINUS-SILENS/COMMERCIUM](https://github.com/DOMINUS-SILENS/COMMERCIUM)
 
 ---
