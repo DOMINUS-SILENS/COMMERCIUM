@@ -48,9 +48,9 @@ Components DrivenForm  REST API     Models   ORM         Schema & Seed
 ║           MODULES – COMMERCIUM ECOSYSTEM               ║
 ╠════════════════════════════════════════════════════════╣
 ║ 🛒 Gestion Produits    │ 🎟️ Coupons & Réductions       ║
-║ 📦 Stock & Inventaire │ 📈 Statistiques & Dashboards   ║
+║ 📦 Stock & Inventaire  │ 📈 Statistiques & Dashboards  ║
 ║ 🧾 Commandes Clients   │ 🎨 Branding Personnalisable   ║
-║ 🧑‍💻 Auth & Permissions│ 🌐 Multilingue / Multidevise    ║
+║ 🧑‍💻 Auth & Permissions  │ 🌐 Multilingue / Multidevise  ║
 ╚════════════════════════════════════════════════════════╝
 ```
 
@@ -60,7 +60,7 @@ Components DrivenForm  REST API     Models   ORM         Schema & Seed
 ╔═════════════════════════════════════╗
 ║ 🔁 Bidirectional Sync Form ↔ Model  ║
 ╠═════════════════════════════════════╣
-║ 1. form.config.json  → Pydantic     ║
+║ 1. form.config.json   → Pydantic    ║
 ║ 2. Pydantic model     → JSON Schema ║
 ║ 3. Zod schema         ←→ model.ts   ║
 ╚═════════════════════════════════════╝
