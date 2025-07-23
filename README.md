@@ -1,6 +1,6 @@
 
 # 𓂀 EMPORIUM – E-COMMERCE PLATFORM SACRÉE
-
+```ascii
 📁 emporium/
 ├── public/                     # Assets publics (icônes, images, manifest, etc.)
 ├── src/
@@ -20,11 +20,11 @@
 ├── postcss.config.js         # Config PostCSS
 ├── tsconfig.json             # Config TypeScript
 └── README.md                 # Présent document
-
+```
 
 ## 🧩 MODULES SACRÉS
 
-
+```ascii
                        ╔═══════════════════════╗
                        ║       EMPORIUM        ║
                        ╚═══════════════════════╝
@@ -39,10 +39,11 @@
  ▼               ▼     ▼                ▼     ▼                ▼
 UI         JSON Forms  FastAPI       Pydantic Prisma      PostgreSQL
 Components DrivenForm  REST API     Models   ORM         Schema & Seed
-
+```
 
 ## ⚙️ FONCTIONNALITÉS
 
+```ascii
 ╔════════════════════════════════════════════════════════╗
 ║           MODULES – COMMERCIUM ECOSYSTEM               ║
 ╠════════════════════════════════════════════════════════╣
@@ -51,10 +52,11 @@ Components DrivenForm  REST API     Models   ORM         Schema & Seed
 ║ 🧾 Commandes Clients   │ 🎨 Branding Personnalisable   ║
 ║ 🧑‍💻 Auth & Permissions│ 🌐 Multilingue / Multidevise  ║
 ╚════════════════════════════════════════════════════════╝
-
+```
 
 ## 🔁 SYNCHRONISATION FORM ↔ MODEL
 
+```ascii
 ╔═════════════════════════════════════╗
 ║ 🔁 Bidirectional Sync Form ↔ Model ║
 ╠═════════════════════════════════════╣
@@ -62,10 +64,11 @@ Components DrivenForm  REST API     Models   ORM         Schema & Seed
 ║ 2. Pydantic model     → JSON Schema ║
 ║ 3. Zod schema         ←→ model.ts   ║
 ╚═════════════════════════════════════╝
-
+```
 
 ## 🧠 ARCHITECTURE VIVANTE
 
+```ascii
 ╔════════════════════════════════════════════╗
 ║         🧠 ARCHÉTYPES ACTIVÉS              ║
 ╠════════════════════════════════════════════╣
@@ -75,17 +78,18 @@ Components DrivenForm  REST API     Models   ORM         Schema & Seed
 ║ SAMDĀN    - Silence Sacré (111.11Hz)     ║
 ║ TĀJIR     - Commerce Équilibré           ║
 ╚════════════════════════════════════════════╝
-
+```
 
 ## 🚀 DÉPLOIEMENT
 
+```ascii
 ╔════════════════════════════════════════════╗
 ║    DEPLOY: FRONT + BACK + DATABASE        ║
 ╠════════════════════════════════════════════╣
 ║ [ Netlify ] → Frontend (React + Tailwind) ║
 ║ [ VPS / Docker ] → FastAPI + DB           ║
 ╚════════════════════════════════════════════╝
-
+```
 
 ## 🔐 ACCÈS ADMIN
 
