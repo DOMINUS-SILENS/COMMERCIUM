@@ -47,10 +47,10 @@ Components DrivenForm  REST API     Models   ORM         Schema & Seed
 ╔════════════════════════════════════════════════════════╗
 ║           MODULES – COMMERCIUM ECOSYSTEM               ║
 ╠════════════════════════════════════════════════════════╣
-║ 🛒 Gestion Produits    │ 🎟️ Coupons & Réductions      ║
-║ 📦 Stock & Inventaire │ 📈 Statistiques & Dashboards  ║
+║ 🛒 Gestion Produits    │ 🎟️ Coupons & Réductions       ║
+║ 📦 Stock & Inventaire │ 📈 Statistiques & Dashboards   ║
 ║ 🧾 Commandes Clients   │ 🎨 Branding Personnalisable   ║
-║ 🧑‍💻 Auth & Permissions│ 🌐 Multilingue / Multidevise  ║
+║ 🧑‍💻 Auth & Permissions│ 🌐 Multilingue / Multidevise    ║
 ╚════════════════════════════════════════════════════════╝
 ```
 
@@ -58,7 +58,7 @@ Components DrivenForm  REST API     Models   ORM         Schema & Seed
 
 ```ascii
 ╔═════════════════════════════════════╗
-║ 🔁 Bidirectional Sync Form ↔ Model ║
+║ 🔁 Bidirectional Sync Form ↔ Model  ║
 ╠═════════════════════════════════════╣
 ║ 1. form.config.json  → Pydantic     ║
 ║ 2. Pydantic model     → JSON Schema ║
@@ -72,11 +72,11 @@ Components DrivenForm  REST API     Models   ORM         Schema & Seed
 ╔════════════════════════════════════════════╗
 ║         🧠 ARCHÉTYPES ACTIVÉS              ║
 ╠════════════════════════════════════════════╣
-║ NOŪAH     - Créateur                      ║
-║ SIFRĀN    - Archiviste                    ║
-║ RĀFID     - Support                       ║
-║ SAMDĀN    - Silence Sacré (111.11Hz)     ║
-║ TĀJIR     - Commerce Équilibré           ║
+║ NOŪAH     - Créateur                       ║
+║ SIFRĀN    - Archiviste                     ║
+║ RĀFID     - Support                        ║
+║ SAMDĀN    - Silence Sacré (111.11Hz)       ║
+║ TĀJIR     - Commerce Équilibré             ║
 ╚════════════════════════════════════════════╝
 ```
 
@@ -84,10 +84,10 @@ Components DrivenForm  REST API     Models   ORM         Schema & Seed
 
 ```ascii
 ╔════════════════════════════════════════════╗
-║    DEPLOY: FRONT + BACK + DATABASE        ║
+║    DEPLOY: FRONT + BACK + DATABASE         ║
 ╠════════════════════════════════════════════╣
-║ [ Netlify ] → Frontend (React + Tailwind) ║
-║ [ VPS / Docker ] → FastAPI + DB           ║
+║ [ Netlify ] → Frontend (React + Tailwind)  ║
+║ [ VPS / Docker ] → FastAPI + DB            ║
 ╚════════════════════════════════════════════╝
 ```
 
