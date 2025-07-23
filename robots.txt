@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /admin/
-Disallow: /hidden/
-Disallow: /private/
-Allow: /
-Sitemap: https://commercium.domusweb.app/sitemap.xml
